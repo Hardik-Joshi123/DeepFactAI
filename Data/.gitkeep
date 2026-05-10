@@ -1,1 +1,7 @@
+Place dataset files here:
+  - Fake.csv   (from Kaggle Fake News Dataset)
+  - True.csv   (from Kaggle Fake News Dataset)
+  - glove.6B.300d.txt  (optional: GloVe embeddings)
 
+Download Kaggle dataset from:
+  https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
