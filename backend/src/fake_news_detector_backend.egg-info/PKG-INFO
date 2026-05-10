@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: fake-news-detector-backend
+Version: 1.0.0
+Summary: FastAPI backend for Fake News Detection
+Requires-Python: >=3.11
+Requires-Dist: fastapi[standard]>=0.115.0
+Requires-Dist: scikit-learn>=1.5.0
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: pandas>=2.2.0
+Requires-Dist: joblib>=1.4.0
+Requires-Dist: nltk>=3.9.0
+Requires-Dist: pydantic>=2.9.0

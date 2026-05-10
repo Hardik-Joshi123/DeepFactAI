@@ -1,0 +1,10 @@
+pyproject.toml
+src/__init__.py
+src/data_loader.py
+src/preprocessor.py
+src/trainer.py
+src/fake_news_detector_backend.egg-info/PKG-INFO
+src/fake_news_detector_backend.egg-info/SOURCES.txt
+src/fake_news_detector_backend.egg-info/dependency_links.txt
+src/fake_news_detector_backend.egg-info/requires.txt
+src/fake_news_detector_backend.egg-info/top_level.txt
