@@ -223,14 +223,6 @@ Run tests for backend:
 pytest backend/tests/
 ```
 
-## Deployment
-
-### Vercel Deployment
-1. Connect your GitHub repository to Vercel
-2. Set the root directory to the project root
-3. Framework preset: Select "Services"
-4. Deploy
-
 ### Docker Deployment
 ```bash
 docker build -t fake-news-detector:latest .
@@ -278,10 +270,10 @@ For issues and questions, please open an issue on the GitHub repository.
 
 If you use this project in research, please cite:
 ```
-@software{fake_news_detection_2024,
-  title={Fake News Detection System},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/fake-news-detection}
+@software{fake_news_detection_2026,
+  title={DeepFactAI},
+  author={Hardik Joshi},
+  year={2026},
+  url={https://https://github.com/Hardik-Joshi123/DeepFactAI}
 }
 ```
